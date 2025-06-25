@@ -12,11 +12,11 @@ stations = {
 }
 # 最後決定要合作的電台清單
 final_stations = set()
-#station_for_states => 該電台覆蓋的州
+
 while states_needed:
     best_station = None
     states_covered = set()
-    for station, station_for_states in stations.items():
+    for station, station_for_states in stations.items():#station_for_states => 該電台覆蓋的州
         # intersections 交集 (由此電台覆蓋且還沒被其他電台覆蓋的州組合起來的集合)
         covered = states_needed & station_for_states
         if len(covered) > len(states_covered):
