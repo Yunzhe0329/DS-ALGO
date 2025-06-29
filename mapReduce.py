@@ -1,0 +1,28 @@
+text = "the cat chased the mouse and the cat ran away"
+# map stage
+("the", 1)
+("cat", 1)
+("chased", 1)
+("the", 1)
+("mouse", 1)
+("and", 1)
+("the", 1)
+("cat", 1)
+("ran", 1)
+("away", 1)
+#shuffle & sort
+("the", [1, 1, 1])
+("cat", [1, 1])
+("chased", [1])
+("mouse", [1])
+("and", [1])
+("ran", [1])
+("away", [1])
+#reduce
+("the", 3)
+("cat", 2)
+("chased", 1)
+("mouse", 1)
+("and", 1)
+("ran", 1)
+("away", 1)
