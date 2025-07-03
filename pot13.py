@@ -8,7 +8,7 @@ def pot13(word):
         new_ord = ord(i) + 13
         if new_ord > ord('z'):
             new_ord-=26
-        output.append(chr(new_ord))
+        output.append(chr(new_ord))#ord轉換後要記得轉String存回list中
     return ''.join(output)
 
 print(pot13("apple"))
