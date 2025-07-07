@@ -1,0 +1,5 @@
+Python is a wonderful programming language.
+Its readability and simplicity make it popular.
+Sometimes, we encounter extraordinarilylongwords for testing purposes.
+Here is a normal line with average words.
+But this one has a supercalifragilisticexpialidocious word in it!

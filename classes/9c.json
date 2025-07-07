@@ -1,0 +1,11 @@
+{
+  "class": "9c",
+  "scores": [
+    {"math": 70, "literature": 65, "science": 72},
+    {"math": 82, "literature": 79, "science": 88},
+    {"math": 90, "literature": 85, "science": 91},
+    {"math": 78, "literature": 72, "science": 80},
+    {"math": 84, "literature": 80, "science": 86}
+  ]
+}
+

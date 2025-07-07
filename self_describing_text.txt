@@ -1,0 +1,8 @@
+This file describes itself!
+
+It contains exactly 5 lines,
+31 words,
+and 173 characters (including spaces and newlines).
+
+Try writing a Python script to verify that!
+Isn't that fun?

@@ -1,0 +1,31 @@
+{
+  "class": "9a",
+  "scores": [
+    {
+      "chinese": 88,
+      "english": 92,
+      "math": 85
+    },
+    {
+      "chinese": 76,
+      "english": 81,
+      "math": 79
+    },
+    {
+      "chinese": 90,
+      "english": 87,
+      "math": 91
+    },
+    {
+      "chinese": 85,
+      "english": 95,
+      "math": 89
+    },
+    {
+      "chinese": 92,
+      "english": 90,
+      "math": 94
+    }
+  ]
+}
+
