@@ -1,0 +1,9 @@
+Hello, how are you doing today?
+This is a simple exercise to practice Pig Latin.
+Try converting each word following the rules.
+Some words may start with vowels, others with consonants.
+Remember to handle punctuation properly.
+Programming in Python is fun and educational.
+Let's see how well you can translate these lines.
+Pig Latin can be a fun way to learn word manipulation.
+Enjoy the challenge and keep practicing!
